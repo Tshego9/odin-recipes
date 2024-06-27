@@ -8,5 +8,20 @@
     <body>
         <h1>ALL-FRUIT SMOOTHIE</h1>
         <p><img src="https://i.postimg.cc/s1dBt9FR/images.jpg" alt="A glass of a fruit smoothie" height="655" width="468"></p>
+
+        <h2>All-Fruit Smoothie</h2>
+        <p>A tasty fruit smoothie that is easy to make and healthy.</p>
+
+        <p>Ingredients</p>
+        <ul>
+            <li>1 cup pineapple juice</li>
+            <li>1 large banana, cut into chunks</li>
+            <li>1 cup frozen strawberries</li>
+            <li>i cup frozen blueberries</li>
+        </ul>
+        <p>Steps</p>
+        <ol>
+            <li>Pour pineapple juice into a blender and add banana, strawberries and blueberries. Cover and blend until smooth, about 1 minute. Pour into 2 glasses.</li>
+        </ol>
     </body>
 </html>
